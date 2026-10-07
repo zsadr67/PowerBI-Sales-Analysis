@@ -39,6 +39,6 @@ This dashboard transforms raw transactional data into actionable business insigh
 
 ### 👤 Contact
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zahrasadr)
-* **Portfolio:** [My GitHub Profile](https://www.https://github.com/zsadr67)
+* **Portfolio:** [My GitHub Profile](https://www.github.com/zsadr67)
 
 *Designed by ZahraSadr*
