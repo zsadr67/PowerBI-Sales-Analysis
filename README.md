@@ -1,8 +1,3 @@
-
-
-<img width="1400" height="233" alt="Sales" src="https://github.com/user-attachments/assets/84479184-a150-464e-b7f0-d494be64cbc5" />
-
-
 # Adventure Works Sales Data Analysis
 
 An interactive Power BI dashboard project designed to analyze sales performance, customer behavior, and product trends for Adventure Works.
@@ -26,7 +21,8 @@ This dashboard transforms raw transactional data into actionable business insigh
 ## 🖼 Dashboard Previews
 
 ### Sales Overview
-[![Sales Overview](Dashboard Screenshots/Sales.PNG)](Dashboard Screenshots/Sales.PNG)
+<img width="1300" height="700" alt="Sales" src="https://github.com/user-attachments/assets/c4fcf4fb-f451-4e88-93ae-3d2dfd7b26bc" />
+
 
 ### Customer Analysis
 [![Customer Analysis](Dashboard Screenshots/Customers.PNG)](Dashboard Screenshots/Customers.PNG)
@@ -43,6 +39,6 @@ This dashboard transforms raw transactional data into actionable business insigh
 
 ### 👤 Contact
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/zahrasadr)
-* 
+* **Portfolio:** [My GitHub Profile](https://www.https://github.com/zsadr67)
 
 *Designed by ZahraSadr*
