@@ -24,11 +24,13 @@ This dashboard transforms raw transactional data into actionable business insigh
 <img width="1300" height="700" alt="Sales" src="https://github.com/user-attachments/assets/c4fcf4fb-f451-4e88-93ae-3d2dfd7b26bc" />
 
 
-### Customer Analysis
-[![Customer Analysis](Dashboard Screenshots/Customers.PNG)](Dashboard Screenshots/Customers.PNG)
+### Customers Analysis
+<img width="1300" height="700" alt="Customers" src="https://github.com/user-attachments/assets/688a0f6a-9917-4f55-ab81-9f5e7b71d6b9" />
 
-### Product Analysis
-[![Product Analysis](Dashboard Screenshots/products.PNG)](Dashboard Screenshots/products.PNG)
+
+### Products Analysis
+<img width="1300" height="700" alt="Products" src="https://github.com/user-attachments/assets/5795ccb3-f893-4ea0-a202-4fe1560e4e10" />
+
 
 ## 💡 Key Business Insights
 * **Profitability vs. Volume:** Identified that while Accessories drive transaction frequency, Bikes (specifically Mountain-200) account for over 80% of net profit.
